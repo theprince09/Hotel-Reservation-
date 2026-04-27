@@ -1,4 +1,7 @@
 🏨 Hotel Reservation Application
+
+
+
 A Java-based command line hotel reservation system built using Object-Oriented Programming principles.
 This application allows users to search, book, and manage hotel rooms, while admins can manage rooms, customers, and reservations.
 
